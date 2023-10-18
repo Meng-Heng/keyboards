@@ -12,11 +12,11 @@
       <ID>id_0a20240c02c6815d7630dd0395473e49</ID>
       <Filename>fv_dene_zhatie.kmn</Filename>
       <Filepath>source\fv_dene_zhatie.kmn</Filepath>
-      <FileVersion>10.0.2</FileVersion>
+      <FileVersion>9.1</FileVersion>
       <FileType>.kmn</FileType>
       <Details>
-        <Name>Dene Zhatıé</Name>
-        <Copyright>(c) 2015-2023 FirstVoices, SIL International, 2015 First Peoples' Cultural Foundation</Copyright>
+        <Name>Dene Zhatié</Name>
+        <Copyright>(c) 2015-2018 FirstVoices, SIL International, 2015 First Peoples' Cultural Foundation</Copyright>
       </Details>
     </File>
     <File>
@@ -27,6 +27,7 @@
       <FileType>.kps</FileType>
       <Details>
         <Name>Dene Zhatie</Name>
+<<<<<<< HEAD
         <Copyright>(c) 2015-2023 FirstVoices, SIL International, 2015 First Peoples' Cultural Foundation</Copyright>
       </Details>
     </File>
@@ -39,12 +40,22 @@
       <ParentFileID>id_0a20240c02c6815d7630dd0395473e49</ParentFileID>
     </File>
     <File>
+=======
+        <Copyright>(c) 2015-2018 FirstVoices, SIL International, 2015 First Peoples' Cultural Foundation</Copyright>
+      </Details>
+    </File>
+    <File>
+>>>>>>> 8370b7b59 (Change key name, add stacking prevention rules)
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
       <Filename>readme.htm</Filename>
       <Filepath>source\readme.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
+<<<<<<< HEAD
       <ParentFileID>id_64dc788fa09d683a741c8393c0a0ab1e</ParentFileID>
+=======
+      <ParentFileID>id_dd92e4cc43359fc000eae40c11ec5ab9</ParentFileID>
+>>>>>>> 8370b7b59 (Change key name, add stacking prevention rules)
     </File>
     <File>
       <ID>id_e0ffdc58d0646cb1f59d73e0599bc8f7</ID>
@@ -52,6 +63,7 @@
       <Filepath>source\..\build\fv_dene_zhatie.js</Filepath>
       <FileVersion></FileVersion>
       <FileType>.js</FileType>
+<<<<<<< HEAD
       <ParentFileID>id_64dc788fa09d683a741c8393c0a0ab1e</ParentFileID>
     </File>
     <File>
@@ -101,6 +113,9 @@
       <FileVersion></FileVersion>
       <FileType>.png</FileType>
       <ParentFileID>id_64dc788fa09d683a741c8393c0a0ab1e</ParentFileID>
+=======
+      <ParentFileID>id_dd92e4cc43359fc000eae40c11ec5ab9</ParentFileID>
+>>>>>>> 8370b7b59 (Change key name, add stacking prevention rules)
     </File>
   </Files>
 </KeymanDeveloperProject>
