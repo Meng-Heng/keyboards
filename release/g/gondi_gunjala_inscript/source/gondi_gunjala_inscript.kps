@@ -7,7 +7,6 @@
   <Options>
     <ExecuteProgram></ExecuteProgram>
     <ReadMeFile>readme.htm</ReadMeFile>
-    <WelcomeFile>welcome\welcome.htm</WelcomeFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
@@ -123,9 +122,7 @@ India. The keyboard layout is an INSCRIPT-based layout.</Description>
         <Language ID="wsg-Gong">Adilabad Gondi (Gunjala Script)</Language>
         <Language ID="gon-Gong">Gondi (Gunjala Script)</Language>
       </Languages>
-      <Examples/>
     </Keyboard>
   </Keyboards>
-  <RelatedPackages/>
   <Strings/>
 </Package>
