@@ -4,27 +4,20 @@
     <BuildPath>$PROJECTPATH\build</BuildPath>
     <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
     <WarnDeprecatedCode>True</WarnDeprecatedCode>
-    <CheckFilenameConventions>False</CheckFilenameConventions>
-    <ProjectType>keyboard</ProjectType>
   </Options>
   <Files>
     <File>
       <ID>id_0a20240c02c6815d7630dd0395473e49</ID>
       <Filename>fv_dene_zhatie.kmn</Filename>
       <Filepath>source\fv_dene_zhatie.kmn</Filepath>
-      <FileVersion>9.1</FileVersion>
       <FileType>.kmn</FileType>
-      <Details>
-        <Name>Dene Zhatié</Name>
-        <Copyright>(c) 2015-2018 FirstVoices, SIL International, 2015 First Peoples' Cultural Foundation</Copyright>
-      </Details>
     </File>
     <File>
       <ID>id_64dc788fa09d683a741c8393c0a0ab1e</ID>
       <Filename>fv_dene_zhatie.kps</Filename>
       <Filepath>source\fv_dene_zhatie.kps</Filepath>
-      <FileVersion></FileVersion>
       <FileType>.kps</FileType>
+<<<<<<< HEAD
       <Details>
         <Name>Dene Zhatie</Name>
 <<<<<<< HEAD
@@ -116,6 +109,8 @@
 =======
       <ParentFileID>id_dd92e4cc43359fc000eae40c11ec5ab9</ParentFileID>
 >>>>>>> 8370b7b59 (Change key name, add stacking prevention rules)
+=======
+>>>>>>> 5223ac1e4 (reverted changes made)
     </File>
   </Files>
 </KeymanDeveloperProject>
