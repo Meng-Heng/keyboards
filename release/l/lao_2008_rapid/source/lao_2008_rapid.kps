@@ -99,10 +99,8 @@
       <Languages>
         <Language ID="lo">Lao</Language>
       </Languages>
-      <Examples/>
     </Keyboard>
   </Keyboards>
-  <RelatedPackages/>
   <Strings/>
   <RelatedPackages>
     <RelatedPackage ID="lao 2008" Relationship="deprecates" />
