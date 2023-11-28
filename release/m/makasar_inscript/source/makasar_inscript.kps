@@ -102,9 +102,7 @@ script with an Inscript layout.</Description>
       <Languages>
         <Language ID="mak-Maka">Makasar (Makasar)</Language>
       </Languages>
-      <Examples/>
     </Keyboard>
   </Keyboards>
-  <RelatedPackages/>
   <Strings/>
 </Package>
