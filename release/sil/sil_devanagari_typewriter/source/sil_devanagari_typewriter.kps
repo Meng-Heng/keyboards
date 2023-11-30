@@ -187,9 +187,7 @@ only few changes.</Description>
         <Language ID="ybh">Yakha</Language>
         <Language ID="ybi">Yamphu</Language>
       </Languages>
-      <Examples/>
     </Keyboard>
   </Keyboards>
-  <RelatedPackages/>
   <Strings/>
 </Package>
