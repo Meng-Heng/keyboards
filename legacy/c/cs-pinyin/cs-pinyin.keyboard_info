@@ -16,17 +16,6 @@
   "version": "1.3",
   "minKeymanVersion": "7.0",
   "platformSupport": {
-    "windows": "full",
-    "macos": "full"
-  },
-  "languages": {
-    "cmn": {
-      "displayName": "Mandarin Chinese",
-      "languageName": "Mandarin Chinese"
-    }
-  },
-  "authorEmail": "sales@tavultesoft.com",
-  "sourcePath": "legacy/c/cs-pinyin",
-  "packageFileSize": 3609456,
-  "helpLink": "https://help.keyman.com/keyboard/cs-pinyin"
+    "windows": "full"
+  }
 }
