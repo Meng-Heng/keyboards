@@ -17,7 +17,7 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">Dɛnɛsųłiné</Name>
+    <Name URL="">Dënesųłıné</Name>
     <Copyright URL="">(c) 2015-2023 FirstVoices, SIL International, 2015 First Peoples' Cultural Foundation</Copyright>
     <WebSite URL="https://www.firstvoices.com">https://www.firstvoices.com</WebSite>
     <Description>This keyboard is designed for the Dɛnɛsųłiné language of the Western
@@ -46,7 +46,7 @@ FirstVoices.</Description>
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Dɛnɛsųłiné</Name>
+      <Name>Dënesųłıné</Name>
       <ID>fv_denesuline</ID>
       <Version></Version>
       <Languages>
