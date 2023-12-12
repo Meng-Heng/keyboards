@@ -98,8 +98,8 @@ by which fonts are installed on that machine.</Description>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>welcome\LayoutU_CA.png</Name>
-      <Description>File LayoutU_CA.png</Description>
+      <Name>welcome\LayoutU_RA.png</Name>
+      <Description>File LayoutU_RA.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
@@ -110,8 +110,8 @@ by which fonts are installed on that machine.</Description>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>welcome\LayoutU_SCA.png</Name>
-      <Description>File LayoutU_SCA.png</Description>
+      <Name>welcome\LayoutU_SRA.png</Name>
+      <Description>File LayoutU_SRA.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
