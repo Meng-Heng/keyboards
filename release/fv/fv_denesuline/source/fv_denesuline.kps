@@ -18,7 +18,7 @@
   </StartMenu>
   <Info>
     <Name URL="">Dënesųłıné</Name>
-    <Copyright URL="">(c) 2015-2023 FirstVoices, SIL International, 2015 First Peoples' Cultural Foundation</Copyright>
+    <Copyright URL="">(c) 2015-2024 FirstVoices, SIL International, 2015 First Peoples' Cultural Foundation</Copyright>
     <WebSite URL="https://www.firstvoices.com">https://www.firstvoices.com</WebSite>
     <Description>This keyboard is designed for the Dɛnɛsųłiné language of the Western
 Subarctic region of Canada. This is part of a set of keyboards from
@@ -50,7 +50,7 @@ FirstVoices.</Description>
       <ID>fv_denesuline</ID>
       <Version></Version>
       <Languages>
-        <Language ID="chp-Latn">Chipewyan (Latin)</Language>
+        <Language ID="chp">Chipewyan (Latin)</Language>
       </Languages>
     </Keyboard>
   </Keyboards>
