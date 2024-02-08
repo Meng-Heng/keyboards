@@ -11,6 +11,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -21,6 +22,8 @@
     <Copyright URL="">© 2012-2023 Dinesharatna Prabhakara Siddhartha</Copyright>
     <Author URL="">Dinesharatna Prabhakara Siddhartha</Author>
     <Version URL=""></Version>
+    <Description>This keyboard is for typing the Maithili language (mai) using the
+Tirhuta (Tirh) script.</Description>
   </Info>
   <Files>
     <File>
@@ -72,10 +75,17 @@
       <FileType>.png</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>welcome\welcome.htm</Name>
       <Description>File welcome.htm</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.htm</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>

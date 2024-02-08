@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -20,6 +21,11 @@
     <Version URL=""></Version>
     <Copyright URL="">© 2018-2023 Osage Nation</Copyright>
     <Author URL=""></Author>
+    <Description>This is a keyboard for typing the Osage language in the Osage script.
+This keyboard layout was developed on behalf of the Osage Nation
+Language Department with the intention of replacing previous layouts
+(partially for reasons pertaining to orthography reforms that have been
+carried since the last Osage keyboard was developed.)</Description>
   </Info>
   <Files>
     <File>
@@ -65,6 +71,7 @@
       <FileType>.png</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\noto\Osge\NotoSansOsage-Regular.ttf</Name>
       <Description>Font Noto Sans Osage Regular</Description>
       <CopyLocation>0</CopyLocation>
@@ -75,6 +82,12 @@
       <Description>File OFL.txt</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.txt</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>
@@ -90,4 +103,7 @@
     </Keyboard>
   </Keyboards>
   <Strings/>
+  <RelatedPackages>
+    <RelatedPackage ID="osage_nation" />
+  </RelatedPackages>
 </Package>

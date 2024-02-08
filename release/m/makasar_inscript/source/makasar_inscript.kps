@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -20,6 +21,8 @@
     <Copyright URL="">© Joshua Wong</Copyright>
     <Author URL="">Joshua Wong</Author>
     <Version URL=""></Version>
+    <Description>This keyboard is designed for the Makassar language, using the Makasar
+script with an Inscript layout.</Description>
   </Info>
   <Files>
     <File>
@@ -77,6 +80,7 @@
       <FileType>.png</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\noto\Maka\OFL.txt</Name>
       <Description>File OFL.txt</Description>
       <CopyLocation>0</CopyLocation>
@@ -87,6 +91,12 @@
       <Description>Font Noto Serif Makasar Regular</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>

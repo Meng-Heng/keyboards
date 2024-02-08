@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder>Hindi Devanagari Phonetic (ITRANS)</Folder>
@@ -57,6 +58,8 @@
     <Copyright URL="">© 2019-2023 sanskritdocuments.org</Copyright>
     <Author URL="">Shree Devi Kumar</Author>
     <WebSite URL="https://sanskritdocuments.org/hindi/">https://sanskritdocuments.org/hindi/</WebSite>
+    <Description>A Phonetic (ITRANS) keyboard layout for Hindi, Sanskrit, Marathi and
+other languages written in Devanagari script.</Description>
   </Info>
   <Files>
     <File>
@@ -90,6 +93,7 @@
       <FileType>.htm</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\deva\siddhanta\CC.txt</Name>
       <Description>File CC.txt</Description>
       <CopyLocation>0</CopyLocation>
@@ -124,6 +128,12 @@
       <Description>File LayoutU_SRA.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>

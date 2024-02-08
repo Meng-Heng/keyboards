@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -20,6 +21,8 @@
     <Copyright URL="">© Joshua Wong</Copyright>
     <Author URL="">Joshua Wong</Author>
     <Version URL=""></Version>
+    <Description>This keyboard is designed for the Sindhi language, using the Khojki
+script with an Inscript layout.</Description>
   </Info>
   <Files>
     <File>
@@ -89,6 +92,7 @@
       <FileType>.jpg</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\noto\Khoj\NotoSansKhojki-Regular.ttf</Name>
       <Description>Font Noto Sans Khojki Regular</Description>
       <CopyLocation>0</CopyLocation>
@@ -99,6 +103,12 @@
       <Description>File OFL.txt</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.txt</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>

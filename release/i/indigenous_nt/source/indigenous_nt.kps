@@ -11,6 +11,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -20,6 +21,12 @@
     <Version URL=""></Version>
     <Name URL="">Indigenous NT</Name>
     <Copyright URL="">(c) 2021-2023 Rajiv Rawat</Copyright>
+    <Description>This is the Keyman edition of an universal keyboard for the official
+languages of the Northwest Territories. It retains the standard US
+keyboard layout while providing access to special characters and
+diacritics through the right-Alt or right-Option key. The mobile version
+provides an extra keyboard layer accessed through the Alt key as well as
+the longpress popup method on the default keyboard layers.</Description>
   </Info>
   <Files>
     <File>
@@ -95,6 +102,7 @@
       <FileType>.htm</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\noto\Latn\NotoSans-Bold.ttf</Name>
       <Description>Font Noto Sans Bold</Description>
       <CopyLocation>0</CopyLocation>
@@ -117,6 +125,12 @@
       <Description>Font Noto Sans Regular</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>

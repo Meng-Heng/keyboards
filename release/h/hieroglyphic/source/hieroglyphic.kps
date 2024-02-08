@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -18,7 +19,13 @@
   <Info>
     <Version URL=""></Version>
     <Name URL="">Hieroglyphic</Name>
+<<<<<<< HEAD
     <Copyright URL="">© 2010-2023 Christian Casey</Copyright>
+=======
+    <Copyright URL="">© 2010-2022 Christian Casey</Copyright>
+    <Description>This keyboard provides a quick and easy way to enter Ancient Egyptian
+hieroglyphs and transliteration as Unicode text.</Description>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
   </Info>
   <Files>
     <File>
@@ -58,6 +65,7 @@
       <FileType>.js</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\aegyptus\Aegyptus.otf</Name>
       <Description>Font Aegyptus</Description>
       <CopyLocation>0</CopyLocation>
@@ -80,6 +88,12 @@
       <Description>File license.txt</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.txt</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>

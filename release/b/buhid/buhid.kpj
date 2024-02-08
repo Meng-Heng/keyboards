@@ -51,11 +51,20 @@
       <FileType>.md</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <ID>id_93205b1475175bc294c813e7bdea61c5</ID>
       <Filename>buhid.keyboard_info</Filename>
       <Filepath>buhid.keyboard_info</Filepath>
       <FileVersion></FileVersion>
       <FileType>.keyboard_info</FileType>
+=======
+      <ID>id_bacc0ce2d7c41a61f5262714dd9d2024</ID>
+      <Filename>NotoSansBuhid-Regular.ttf</Filename>
+      <Filepath>source\NotoSansBuhid-Regular.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+      <ParentFileID>id_174a486fd8470ad104fe5492bdfc90a4</ParentFileID>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
     <File>
       <ID>id_a256aa8559b15dc52965d594f968dbee</ID>

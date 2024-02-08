@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -18,7 +19,13 @@
   <Info>
     <Version URL=""></Version>
     <Name URL="">Lao 2008 Rapid</Name>
+<<<<<<< HEAD
     <Copyright URL="">© 2008-2023 John Durdin</Copyright>
+=======
+    <Copyright URL="">© 2008-2021 John Durdin</Copyright>
+    <Description>This keyboard uses the official Lao standard layout. The keyboard also
+automatically inserts (hidden) break characters at syllable boundaries.</Description>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
   </Info>
   <Files>
     <File>
@@ -64,6 +71,7 @@
       <FileType>.htm</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\laoo\saysettha\OFL.txt</Name>
       <Description>File OFL.txt</Description>
       <CopyLocation>0</CopyLocation>
@@ -86,6 +94,12 @@
       <Description>File Saysettha_README.txt</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.txt</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>
@@ -101,4 +115,7 @@
     </Keyboard>
   </Keyboards>
   <Strings/>
+  <RelatedPackages>
+    <RelatedPackage ID="lao 2008" Relationship="deprecates" />
+  </RelatedPackages>
 </Package>

@@ -9,7 +9,11 @@
     <ReadMeFile>readme.htm</ReadMeFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
+<<<<<<< HEAD
     <FollowKeyboardVersion/>
+=======
+    <LicenseFile>..\LICENSE.md</LicenseFile>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -20,6 +24,9 @@
     <Name URL="">Obolo Qwerty</Name>
     <Copyright URL="">© 2020 - 2023 Rogers Katelem Edeh</Copyright>
     <Author URL="">Rogers Katelem Edeh</Author>
+    <Description>Obolo Qwerty Keyboard is a simple keyboard in QWERTY layout, for the
+Obolo language of Nigeria. It covers the need of every dialect in that
+language.</Description>
   </Info>
   <Files>
     <File>
@@ -107,6 +114,7 @@
       <FileType>.htm</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\noto\Latn\NotoSans-Bold.ttf</Name>
       <Description>Font Noto Sans Bold</Description>
       <CopyLocation>0</CopyLocation>
@@ -129,6 +137,12 @@
       <Description>Font Noto Sans Regular</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>

@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -18,7 +19,15 @@
   <Info>
     <Version URL=""></Version>
     <Name URL="">Dzongkha (SIL)</Name>
+<<<<<<< HEAD
     <Copyright URL="">© 2012-2023 SIL International</Copyright>
+=======
+    <Copyright URL="">© 2012-2018 SIL International</Copyright>
+    <Description>This keyboard is designed for the Dzongkha language of Bhutan. The
+keyboard follows the current (October 2009) official Dzongkha layout
+approved by the Department of Information Technology and Dzongkha
+Development Authority of the Government of Bhutan.</Description>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
   </Info>
   <Files>
     <File>
@@ -46,6 +55,7 @@
       <FileType>.kmx</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\tibt\ddc_uchen\DDC_Uchen.ttf</Name>
       <Description>Font DDC_Uchen</Description>
       <CopyLocation>0</CopyLocation>
@@ -56,6 +66,12 @@
       <Description>File OFL.txt</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.txt</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>
@@ -71,4 +87,7 @@
     </Keyboard>
   </Keyboards>
   <Strings/>
+  <RelatedPackages>
+    <RelatedPackage ID="dzongkha" Relationship="deprecates" />
+  </RelatedPackages>
 </Package>

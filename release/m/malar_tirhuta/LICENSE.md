@@ -1,6 +1,10 @@
 The MIT License (MIT)
 
+<<<<<<< HEAD
 © 2022-2023 Ramesh Kunnappully
+=======
+Copyright © 2022 Ramesh Kunnappully
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

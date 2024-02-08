@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -18,7 +19,13 @@
   <Info>
     <Version URL=""></Version>
     <Name URL="">Lao 2008 Basic</Name>
+<<<<<<< HEAD
     <Copyright URL="">© 2008-2023 John Durdin</Copyright>
+=======
+    <Copyright URL="">© 2008-2019 John Durdin</Copyright>
+    <Description>Simple Lao keyboard mapping with overtyping constraints but minimal
+re-ordering and no break insertion.</Description>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
   </Info>
   <Files>
     <File>
@@ -70,6 +77,7 @@
       <FileType>.htm</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\laoo\saysettha\OFL.txt</Name>
       <Description>File OFL.txt</Description>
       <CopyLocation>0</CopyLocation>
@@ -92,6 +100,12 @@
       <Description>File Saysettha_README.txt</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.txt</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>
@@ -104,7 +118,13 @@
       <Languages>
         <Language ID="lo">Lao</Language>
       </Languages>
-    </Keyboard>
+      <Examples>
+        <Example ID="lo" Keys="r k l k ] k ; d = w f h" Text="ພາສາລາວກໍໄດ້" Note="&quot;Lao Language Okay&quot;" />
+      </Examples>
+  </Keyboard>
   </Keyboards>
   <Strings/>
+  <RelatedPackages>
+    <RelatedPackage ID="lao 2008" Relationship="deprecates" />
+  </RelatedPackages>
 </Package>

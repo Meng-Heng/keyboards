@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <Package>
   <System>
@@ -97,3 +98,100 @@
   </Keyboards>
   <Strings/>
 </Package>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>16.0.139.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">hanunoo</Name>
+    <Copyright URL="">© 2022-2023 Ilham Nurwansah</Copyright>
+    <Author URL="mailto:info@kairaga.com">Ilham Nurwansah</Author>
+    <Version URL=""></Version>
+    <WebSite URL="https://inurwansah.my.id/keyboards/">https://inurwansah.my.id/keyboards/</WebSite>
+    <Description>This keyboard supports the Hanunoo &amp; Tagalog languages using the Hanunoo
+script.</Description>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\build\hanunoo.kmx</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\hanunoo.js</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\hanunoo.kvk</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>NotoSansHanunoo-Regular.ttf</Name>
+      <Description>Font Noto Sans Hanunoo Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\source\welcome\hano_kbd1.png</Name>
+      <Description>File hano_kbd1.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>..\source\welcome\hano_kbd2.png</Name>
+      <Description>File hano_kbd2.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>..\source\welcome\welcome.htm</Name>
+      <Description>File welcome.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>hanunoo</Name>
+      <ID>hanunoo</ID>
+      <Version>1.1</Version>
+      <OSKFont>NotoSansHanunoo-Regular.ttf</OSKFont>
+      <DisplayFont>NotoSansHanunoo-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="hnn-Hano">Hanunoo</Language>
+        <Language ID="tl-Hano">Tagalog (Hanunoo)</Language>
+        <Language ID="bku-Hano">Buhid (Hanunoo)</Language>
+        <Language ID="tgt-Hano">Central Tagbanwa (Hanunoo)</Language>
+        <Language ID="tbk-Hano">Calamian Tagbanwa (Hanunoo)</Language>
+        <Language ID="tbw-Hano">Aborlan Tagbanwa (Hanunoo)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e

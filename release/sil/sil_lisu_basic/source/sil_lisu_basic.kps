@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -18,7 +19,13 @@
   <Info>
     <Version URL=""></Version>
     <Name URL="">Lisu Basic (SIL)</Name>
+<<<<<<< HEAD
     <Copyright URL="">© 2018-2023 SIL International</Copyright>
+=======
+    <Copyright URL="">2018 SIL International</Copyright>
+    <Description>This keyboard is a mnemonic Lisu keyboard layout following a QWERTY key
+arrangement.</Description>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
   </Info>
   <Files>
     <File>
@@ -64,6 +71,7 @@
       <FileType>.htm</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\lisu\lisutzimu\lisutzimu.ttf</Name>
       <Description>Font LisuTzimu</Description>
       <CopyLocation>0</CopyLocation>
@@ -92,6 +100,12 @@
       <Description>File ofl.txt</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.txt</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>

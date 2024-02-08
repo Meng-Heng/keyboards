@@ -10,6 +10,7 @@
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
+    <LicenseFile>..\LICENSE.md</LicenseFile>
   </Options>
   <StartMenu>
     <Folder></Folder>
@@ -20,6 +21,8 @@
     <Name URL="">Dogra Inscript</Name>
     <Copyright URL="">© Joshua Wong</Copyright>
     <Author URL="">Joshua Wong</Author>
+    <Description>This keyboard is designed for the Dogri language, using the Dogra script
+with an Inscript layout.</Description>
   </Info>
   <Files>
     <File>
@@ -77,10 +80,17 @@
       <FileType>.png</FileType>
     </File>
     <File>
+<<<<<<< HEAD
       <Name>..\..\..\shared\fonts\noto\Dogr\NotoSerifDogra-Regular.ttf</Name>
       <Description>Font Noto Serif Dogra Regular</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
+=======
+      <Name>..\LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+>>>>>>> dcd8c8c9d06ac2721313067e00924b18e7e4110e
     </File>
   </Files>
   <Keyboards>
