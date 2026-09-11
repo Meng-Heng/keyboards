@@ -12,7 +12,7 @@ store(&NAME) 'Mbya Guarani'
 store(&VISUALKEYBOARD) 'mbya_guarani.kvks'
 store(&BITMAP) 'mbya_guarani.ico'
 store(&LAYOUTFILE) 'mbya_guarani.keyman-touch-layout'
-store(&COPYRIGHT) 'Copyright © 2021-2026 Latinoamérica Habla'
+store(&COPYRIGHT) 'Copyright © Latinoamérica Habla'
 store(&KEYBOARDVERSION) '2.0'
 store(&TARGETS) 'any'
 
