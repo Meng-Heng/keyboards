@@ -1,7 +1,7 @@
 Mbya Guarani keyboard
 ==============
 
-Latinoamérica Habla ©
+Copyright © Latinoamérica Habla
 
 Description
 -----------
